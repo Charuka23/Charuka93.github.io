@@ -19,8 +19,8 @@ Overall, I am committed to pursuing my passion for   optical Spectroscopy  and c
 Here is my [facebook](https://www.facebook.com/)
 
 ## currenr research interest
-*optics
-  *cha
-*laser
-*spectroscopy
+* optics
+  * cha
+* laser
+* spectroscopy
 
